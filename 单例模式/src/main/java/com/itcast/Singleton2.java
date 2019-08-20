@@ -17,9 +17,6 @@ public class Singleton2 {
        if(singleton2==null){
            Singleton2 singleton2 = new Singleton2();
        }
-        System.out.println("---");
-
         return singleton2;
-
     }
 }
