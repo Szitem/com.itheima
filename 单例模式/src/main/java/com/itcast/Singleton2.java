@@ -18,9 +18,7 @@ public class Singleton2 {
            Singleton2 singleton2 = new Singleton2();
        }
         System.out.println();
-        System.out.println(
 
-        );
         return singleton2;
 
     }
