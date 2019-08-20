@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IO流/IO流.iml" filepath="$PROJECT_DIR$/IO流/IO流.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/算法了解/枚举算法/meiju/meiju.iml" filepath="$PROJECT_DIR$/算法了解/枚举算法/meiju/meiju.iml" />
+      <module fileurl="file://$PROJECT_DIR$/算法了解/二分算法/二分算法.iml" filepath="$PROJECT_DIR$/算法了解/二分算法/二分算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/单例模式/单例模式.iml" filepath="$PROJECT_DIR$/单例模式/单例模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/反射/反射.iml" filepath="$PROJECT_DIR$/反射/反射.iml" />
+      <module fileurl="file://$PROJECT_DIR$/线程/线程.iml" filepath="$PROJECT_DIR$/线程/线程.iml" />
+    </modules>
+  </component>
+</project>
