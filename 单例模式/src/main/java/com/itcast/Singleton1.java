@@ -14,7 +14,7 @@ public class Singleton1 {
     private Singleton1() { }
     //以自己实例为返回值的静态的共有方法,静态化工厂方法
     public static Singleton1 getSingleton1(){
-        System.out.println();
+        System.out.println("----");
         return singleton1;
     }
 }
